@@ -3,3 +3,5 @@ function printMessage() {
 }
 
 printMessage();
+
+console.log("hi again");
