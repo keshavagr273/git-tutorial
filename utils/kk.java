@@ -1,8 +1,8 @@
-public class KK {
+class KK {
     public static void main(String[] args) {
         int num1 = 10;
         int num2 = 20;
-        int sum = num1 + num2;
+        int sum = num1 + num2 + 23;
         System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
         int product = num1 * num2;
         System.out.println("The product of " + num1 + " and " + num2 + " is: " + product);
