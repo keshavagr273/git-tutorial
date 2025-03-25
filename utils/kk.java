@@ -11,7 +11,7 @@ class KK {
             int division = firstOperand / secondOperand;
             System.out.println("The division of " + firstOperand + " by " + secondOperand + " is: " + division);
         } else {
-            System.out.println("Division by zero is not allowed.");
+            System.out.println("Division by zero is not allowe.");
         }
     }
 
